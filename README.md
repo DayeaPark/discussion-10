@@ -57,4 +57,8 @@ Also, you van make Blockquotes
 ### You can add links 
 This is used for reference. 
 
+## add picture 
+![git-branches-merge](https://github.com/DayeaPark/discussion-10/assets/99752377/37ad77f8-fea4-4932-9b74-1143c4cd2eb3)
+
+
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
