@@ -65,6 +65,8 @@ Also, you van make Blockquotes
 
 ### You can add links 
 This is used for reference. 
+[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
+
 
 ## add picture 
 ![git-branches-merge](https://github.com/DayeaPark/discussion-10/assets/99752377/37ad77f8-fea4-4932-9b74-1143c4cd2eb3)
@@ -74,6 +76,6 @@ This is used for reference.
 ```
 git clone https://github.com/DayeaPark/Allele-specific-m6A-modification.git
 ```
+## More information for Pull request 
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
 
-
-[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
