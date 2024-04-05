@@ -69,5 +69,11 @@ This is used for reference.
 ## add picture 
 ![git-branches-merge](https://github.com/DayeaPark/discussion-10/assets/99752377/37ad77f8-fea4-4932-9b74-1143c4cd2eb3)
 
+## You can copy the directory with following commands. 
+
+```
+git clone https://github.com/DayeaPark/Allele-specific-m6A-modification.git
+```
+
 
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
