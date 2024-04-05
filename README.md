@@ -14,7 +14,14 @@ GitHub’s interface is user-friendly enough so even novice coders can take adva
 * Keeping track of projects and files 
 * Collaborating with others 
 * Social network.
+```
+* Store projects
+* Keeping track of projects and files 
+* Collaborating with others 
+* Social network.
 
+
+```
 
 ## Writing Readme. 
 It needs to be descriptive. 
@@ -22,6 +29,12 @@ It needs to be descriptive.
 2. List the contents of the repository
 3. Clearly explains the project to others. 
 
+```
+1. Anyone should understand our project.
+2. List the contents of the repository
+3. Clearly explains the project to others. 
+
+```
  
 ## Fundamentals:
 Title, 
@@ -58,16 +71,33 @@ Also, you van make Blockquotes
 >> sentence 5
 >>
 
+```
+> sentence 1
+> sentence 2
+> sentence 3
+> sentence 4
+>> sentence 5
+>>
+```
 ## Task box 
 - [x] share with someone
 - [ ] make checkbox 
 - [ ] assign tesk 
 
+```
+- [x] share with someone
+- [ ] make checkbox 
+- [ ] assign tesk 
+
+```
 ### You can add links 
 This is used for reference. 
 [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 
+```
+[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 
+```
 ## add picture 
 ![git-branches-merge](https://github.com/DayeaPark/discussion-10/assets/99752377/37ad77f8-fea4-4932-9b74-1143c4cd2eb3)
 
